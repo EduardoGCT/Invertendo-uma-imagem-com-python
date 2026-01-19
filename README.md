@@ -19,4 +19,5 @@ Desenvolver um programa em Python que execute as seguintes operações:
 6 Manipular os dados do arquivo binário cópia (por exemplo, inverter os bytes, adicionar ruído etc.).
 
 7 Carregar a imagem modificada a partir do arquivo binário e exibi-la para ver o efeito das manipulações.
+
 .
