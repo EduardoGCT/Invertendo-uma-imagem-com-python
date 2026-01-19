@@ -4,6 +4,7 @@ import numpy as np
 def main():
     #carregar imagem original
     img = Image.open("C:/Users/Eduardo/Desktop/inversor de imagem/imagem.jpg")
+    img.show() #antes de modificar
 
     #converter a imagem em dados binários
     img_data = np.array(img)
