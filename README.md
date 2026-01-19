@@ -20,4 +20,4 @@ Desenvolver um programa em Python que execute as seguintes operações:
 
 7 Carregar a imagem modificada a partir do arquivo binário e exibi-la para ver o efeito das manipulações.
 
-.
+Para inverter uma imagem, aponte o caminho da mesma na linha 6 (img = Image.open("C:/Users/Eduardo/Desktop/inversor de imagem/imagem.jpg")) basta remover o caminha atual e apondar o da imagem desejada.
